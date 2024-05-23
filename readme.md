@@ -1,6 +1,11 @@
-# Pacman Game in Java Swing
+# Pacman Game 
 
 This is a simple Pacman game implemented using Java Swing, a graphical user interface toolkit for Java. The game aims to recreate the classic Pacman arcade experience where the player controls Pacman, a yellow circular character, and tries to eat all the dots while avoiding ghosts.
+
+## Demo 
+
+[![Pacman demo](https://img.youtube.com/vi/GkhsuhZiQGk/0.jpg)](https://www.youtube.com/watch?v=GkhsuhZiQGk)
+
 
 ## Getting Started
 
